@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/luna/NewProject/project-s3g2/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="552c16fc795a2cccec6ed23da4482205f129ea90">
+        <dex dex="/Users/luna/NewProject/project-s3g2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_35ca597ef351cabe4fc8b09e6a65e2d36e29dac6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/luna/NewProject/project-s3g2/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/Users/luna/NewProject/project-s3g2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_267658fb1f0037b36eedd4bae7d850fb80eb40e2/classes.dex" />
+    </item>
+
+</items>
