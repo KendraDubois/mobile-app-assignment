@@ -18,7 +18,7 @@ Our changes allowed for sorting these feeds and saving these feeds into folders 
 Background on the Project
 *************************
 This assignment was a group effort between myself and 4 team mates.
-For four months we developed this app, in an agile development iteration cycles.
+For four months we developed this app, in agile development-style iteration cycles.
 I volunteered to be have the leadership role of “Scrum Master”.
 Around every 2 weeks we demoed our products progress to the class during our lab time.
 
