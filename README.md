@@ -14,6 +14,7 @@ The initial app would allow users to enter a  RSS feed and be able to scroll thr
 
 Our changes allowed for sorting these feeds and saving these feeds into folders that users could name, create, edit and delete themselves. Many other additions were added as well, such as showing history of previously searched feeds, error handling and the app was made more aesthetically pleasing. 
 
+*************************
 Background on the Project
 *************************
 This assignment was a group effort between myself and 4 team mates.
@@ -21,7 +22,7 @@ For four months we developed this app, in an agile development iteration cycles.
 I volunteered to be have the leadership role of “Scrum Master”.
 Around every 2 weeks we demoed our products progress to the class during our lab time.
 
-
+***************
 Run the Project
 ***************
 Open as a project in Android Studio. From here the app can be downloaded onto a device connected with a USB or through a virtual device in Android Studio.
